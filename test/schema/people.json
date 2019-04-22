@@ -17,7 +17,7 @@
       ],
       "properties": {
         "country": {
-          "type": "integer",
+          "type": "string",
           "title": "The Country Schema",
           "default": 0
         },
